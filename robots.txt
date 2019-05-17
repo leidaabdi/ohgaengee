@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahbaxiecie.project-q.org/sitemap.xml
